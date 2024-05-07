@@ -1,0 +1,64 @@
+My resume data in JSON format:
+
+
+let sathishResume = {
+  "name": "Sathish E",
+  "email": "itzme.sathish7@gmail.com",
+  "phone": "+918940994069",
+  "address": "",
+  "summary": "Experienced software engineer with a strong background in web development and a passion for problem-solving. Skilled in JavaScript, Python, and SQL, with a focus on building scalable and efficient applications.",
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Mechanical",
+      "college": "KPR Institute of Engineering and Technology",
+      "location": "Bangalore, India",
+      "graduation_year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Customer Service Associate",
+      "company": "Amazon Development Centre India",
+      "location": "Coimbatore, India",
+      "start_date": "August 2020",
+      "end_date": "December 2021",
+      "responsibilities": [
+        "Managed variety of customer service calls and administrative tasks to resolve customer issues quickly and productively.",
+        "Actively listened to customers and provided appropriate resolutions through efficient means of communication.",
+        "Cross-trained and provided back-up for other customer service roles and departments whenever needed."
+      ]
+    },
+    {
+      "position": "Sales and Service Executive",
+      "company": "SA Car Care",
+      "location": "Trichy, India",
+      "start_date": "January 2022",
+      "end_date": "December 2023",
+      "responsibilities": [
+        "Troubleshot and diagnosed faults with Vehicle systems and Components using OEM-specific code readers, diagnosed trees and Online Knowledgebase.",
+        "Inspected and tested Equipment to locate Worn and Damaged parts.",
+        "Responded to Customers, telephone calls, E-mails and in-person requests for Assistance."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "list": ["JavaScript", "Python", "SQL"]
+    },
+    {
+      "category": "Web Development",
+      "list": ["HTML", "CSS", "React.js", "Node.js"]
+    },
+    {
+      "category": "Tools & Technologies",
+      "list": ["Git", "CLI", "RESTful APIs"]
+    }
+  ],
+  "languages": ["English (Fluent)", "Tamil (Fluent)", "Hindi (Intermediate)"],
+  "certifications": [
+    "Full Stack (MERN) Developer Program at GUVI (IIT incubated Company)",
+    "Udemy: The Web Developer Bootcamp 2024"
+  ]
+}
+
